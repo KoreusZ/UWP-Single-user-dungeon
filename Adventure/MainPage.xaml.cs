@@ -25,6 +25,7 @@ namespace Adventure
         public MainPage()
         {
             this.InitializeComponent();
+            
         }
 
         private void Attack_Click(object sender, RoutedEventArgs e)
